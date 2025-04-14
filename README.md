@@ -65,4 +65,11 @@ Copy
 Edit
 python keylogger.py
 
+Disclaimer: This tool is for educational purposes only. Using a keylogger without explicit permission is illegal and unethical. Ensure that you have the proper authorization before using this script.
+
+For any questions or feedback, feel free to contact me at naidushnamukh7@gmail.com
+
+---
+
+
 
